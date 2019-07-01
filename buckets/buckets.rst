@@ -703,29 +703,6 @@ What are the key things you should know about **Nutanix Buckets**?
 
 - Buckets will be enabled and deployed from Prism Central. Upgrades will be done via Lifecycle Manager (LCM).
 
-Getting Connected
-+++++++++++++++++
-
-Have a question about **Nutanix Buckets**? Please reach out to the resources below:
-
-+---------------------------------------------------------------------------------------------+
-|  Buckets Product Contacts                                                                   |
-+================================+============================================================+
-|  Slack Channel                 |  #nutanix-buckets                                          |
-+--------------------------------+------------------------------------------------------------+
-|  Product Manager               |  Priyadarshi Prasad, priyadarshi@nutanix.com               |
-+--------------------------------+------------------------------------------------------------+
-|  Product Marketing Manager     |  Krishnan Badrinarayanan, krishnan.badrinaraya@nutanix.com |
-+--------------------------------+------------------------------------------------------------+
-|  Technical Marketing Engineer  |  Laura Jordana, laura@nutanix.com                          |
-+--------------------------------+------------------------------------------------------------+
-|  SME                           |  Karan Gupta, karan.gupta@nutanix.com                      |
-+--------------------------------+------------------------------------------------------------+
-|  SME                           |  Roger Liao, roger.liao@nutanix.com                        |
-+--------------------------------+------------------------------------------------------------+
-|  SME                           |  Dheer Moghe, dheer.moghe@nutanix.com                      |
-+--------------------------------+------------------------------------------------------------+
-
 Additional Resources (Internal)
 +++++++++++++++++++++++++++++++
 
