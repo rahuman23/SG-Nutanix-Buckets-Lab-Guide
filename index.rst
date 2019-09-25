@@ -27,7 +27,7 @@
 Nutanix Singapore Bootcamp lab guide
 --------------------------
 
-Welcome to Nutanix Singapore Bootcamp basic 101
+Welcome to Nutanix Singapore Bootcamp basic 101 TEST01
 
 Labs are designed to be completed by each individual, not in groups.
 
